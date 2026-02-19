@@ -7,10 +7,17 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+# Dependencies
 node_modules
+
+# Build output
 dist
 dist-ssr
+
+# Environment variables
 *.local
+.env
+.env.*
 
 # Editor directories and files
 .vscode/*
@@ -22,3 +29,25 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# AI Context (local only)
+.context/
+AGENTS.md
+
+# Bolt.new
+.bolt/
+
+# RStudio (irrelevant)
+*.Rproj
+.Rproj.user/
+.Rhistory
+.RData
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
