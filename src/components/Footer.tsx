@@ -32,8 +32,8 @@ const contactInfo: ContactInfo[] = [
   {
     icon: Phone,
     label: 'Telefone',
-    value: '+55 (11) 94509-1241',
-    href: 'https://api.whatsapp.com/send?phone=5511945091241&text=Eu%20vim%20atrav%C3%A9s%20do%20arremata.ai.%20Quero%20saber%20mais%20sobre%20a%20assinatura%20do%20plano%20GOLD'
+    value: '+55 11 5192-0645',
+    href: 'https://api.whatsapp.com/send?phone=551151920645&text=Eu%20vim%20atrav%C3%A9s%20do%20arremata.ai.%20Quero%20saber%20mais%20sobre%20a%20assinatura%20do%20plano%20GOLD'
   }
 ];
 
